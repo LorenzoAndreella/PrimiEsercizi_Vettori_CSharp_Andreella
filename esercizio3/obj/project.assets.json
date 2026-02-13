@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio1/esercizio.csproj",
-      "projectName": "esercizio",
-      "projectPath": "/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio1/esercizio.csproj",
+      "projectUniqueName": "/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/esercizio3.csproj",
+      "projectName": "esercizio3",
+      "projectPath": "/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/esercizio3.csproj",
       "packagesPath": "/Users/lorenzoandreella/.nuget/packages/",
-      "outputPath": "/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio1/obj/",
+      "outputPath": "/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lorenzoandreella/.nuget/NuGet/NuGet.Config"

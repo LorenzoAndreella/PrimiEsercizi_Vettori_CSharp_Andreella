@@ -1,0 +1,15 @@
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/bin/Debug/net10.0/esercizio3
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/bin/Debug/net10.0/esercizio3.deps.json
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/bin/Debug/net10.0/esercizio3.runtimeconfig.json
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/bin/Debug/net10.0/esercizio3.dll
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/bin/Debug/net10.0/esercizio3.pdb
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/esercizio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/esercizio3.AssemblyInfoInputs.cache
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/esercizio3.AssemblyInfo.cs
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/esercizio3.csproj.CoreCompileInputs.cache
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/esercizio3.sourcelink.json
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/esercizio3.dll
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/refint/esercizio3.dll
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/esercizio3.pdb
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/esercizio3.genruntimeconfig.cache
+/Users/lorenzoandreella/Desktop/EserciziArray_CSHARP/esercizio3/obj/Debug/net10.0/ref/esercizio3.dll
